@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="14" show-margin="true" snap-margin="true" margin="36 36 36 36" null-string="&lt;NA&gt;">
+  <datasource source="file:/C:/Users/Colm/Documents/Final Year Project/reports/DataSet.xml" />
+  <page width="612" height="792">
+    <table x="36" y="144" width="540" height="612" list-key="Row">
+      <grouping key="Row" details="true" />
+      <tablerow width="540" height="18" title="Row Details">
+        <text width="135" height="18">
+          <pgraph align="center" />
+          <string>@USERNAME@</string>
+        </text>
+        <text x="135" width="135" height="18">
+          <pgraph align="center" />
+          <string>@SESSION_NUM@</string>
+        </text>
+        <text x="270" width="135" height="18">
+          <pgraph align="center" />
+          <string>@CHEST_DATA@</string>
+        </text>
+        <text x="405" width="135" height="18">
+          <pgraph align="center" />
+          <string>@ABDOMINAL_DATA@</string>
+        </text>
+      </tablerow>
+    </table>
+    <text x="36" y="36" width="540" height="107" valign="middle">
+      <font name="Arial" size="28" />
+      <pgraph align="center" />
+      <string>Chest and Abdomenal Respiratory Data</string>
+    </text>
+    <text x="36" y="122" width="136" height="22">
+      <font name="Arial" size="14" />
+      <pgraph align="center" />
+      <string>Username</string>
+    </text>
+    <text x="168" y="121" width="138" height="23">
+      <font name="Arial" size="14" />
+      <pgraph align="center" />
+      <string>Session Number</string>
+    </text>
+    <text x="303" y="121" width="137" height="25">
+      <font name="Arial" size="14" />
+      <pgraph align="center" />
+      <string>Chest Data</string>
+    </text>
+    <text x="437" y="118" width="139" height="27" valign="middle">
+      <font name="Arial" size="14" />
+      <pgraph align="center" />
+      <string>Abdomen Data</string>
+    </text>
+  </page>
+</document>
